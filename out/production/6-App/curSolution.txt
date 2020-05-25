@@ -1,0 +1,1 @@
+double meters = inch * 0.0254;System.out.println(meters);

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4377d78e-c16f-474e-acac-0a6f295a6bcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="6-App" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XrBYajrA1JfUcZXc93YWUA93Df" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="RunnerTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-App" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTest.readTxtFile" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-App" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerTest" />
+      <option name="METHOD_NAME" value="readTxtFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTest.stringSimilarity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-App" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerTest" />
+      <option name="METHOD_NAME" value="stringSimilarity" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="6-App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTest.readTxtFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-App" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerTest" />
+      <option name="METHOD_NAME" value="readTxtFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.RunnerTest" />
+        <item itemvalue="JUnit.RunnerTest.readTxtFile" />
+        <item itemvalue="Android JUnit.RunnerTest.stringSimilarity" />
+        <item itemvalue="Android JUnit.RunnerTest.readTxtFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4377d78e-c16f-474e-acac-0a6f295a6bcc" name="Default Changelist" comment="" />
+      <created>1581794381429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581794381429</updated>
+      <workItem from="1581794384493" duration="4917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="200" key="#Notifications" timestamp="1584568221099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="200" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1584568221099" />
+    <state x="556" y="200" key="#Plugins" timestamp="1584580384261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="200" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1584580384261" />
+    <state x="417" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584272232080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="417" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584272232080" />
+    <state x="289" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1583688529956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="289" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583688529956" />
+    <state x="694" y="318" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584491844813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="318" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584491844813" />
+    <state x="694" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584491834023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="326" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584491834023" />
+    <state x="335" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583531692724">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="335" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583531692724" />
+    <state x="680" y="260" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1584576784128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="680" y="260" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584576784128" />
+    <state x="743" y="283" key="FileChooserDialogImpl" timestamp="1584709496261">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="283" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584709496261" />
+    <state width="914" height="274" key="GridCell.Tab.0.bottom" timestamp="1584709155483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584709155483" />
+    <state width="914" height="274" key="GridCell.Tab.0.center" timestamp="1584709155483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="274" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584709155483" />
+    <state width="914" height="274" key="GridCell.Tab.0.left" timestamp="1584709155483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="274" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584709155483" />
+    <state width="914" height="274" key="GridCell.Tab.0.right" timestamp="1584709155483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="274" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584709155483" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1584556049265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584556049265" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1584556049265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584556049265" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1584556049265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584556049265" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1584556049265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584556049265" />
+    <state x="152" y="241" key="NewModule_or_Project.wizard" timestamp="1584709532509">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="152" y="241" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584709532509" />
+    <state x="61" y="116" key="SettingsEditor" timestamp="1584577780946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="61" y="116" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584577780946" />
+    <state x="685" y="284" width="540" height="524" key="StructurePopup" timestamp="1584572300324">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="284" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1584572300324" />
+    <state x="667" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1583531606039">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583531606039" />
+    <state x="668" y="435" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584566337767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="435" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1584566337767" />
+    <state x="728" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584567336297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584567336297" />
+    <state x="160" y="254" key="run.anything.popup" timestamp="1584569316721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="160" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584569316721" />
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1584580343974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584580343974" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/src/das.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

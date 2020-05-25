@@ -1,0 +1,482 @@
+--------------------new--------------------
+Number-12
+Difficulty-1
+Category-if
+----------GivenCode
+import java.util.*;
+
+public class Answer {
+
+    public static void main(String[] Strings) {
+        Random r = new Random();
+
+        int number = r.nextInt((100 - 1) + 1) + 1;
+
+        System.out.println(posOrNeg(number));
+
+    }
+
+    public static String posOrNeg(int number){
+    	//Write your solution here
+    }
+}
+----------Question
+Write the java method posOrNeg so that it returns:
+
+- Positive // If the number is positive
+
+- Negative // If the number is positive
+
+
+You should use if / else statements.
+
+For Example, if number = 10 the program should return: 
+
+Positive
+----------Solution
+if(number > 0)
+return "Positive";
+else
+return "Negative";
+----------desiredOutput
+Positive
+--------------------end--------------------
+--------------------new--------------------
+Number-11
+Difficulty-2
+Category-print
+----------GivenCode
+public class Answer {
+
+    public static void main(String[] Strings) {
+        int num1 = 29;
+        int num2 = 833;
+        //print the results
+    }
+}
+----------Question
+Write a Java program that accepts two integers (num1 and num2) and then prints:
+- the sum
+- the difference
+- the product
+- the distance (the difference between integer - Math.abs needs to be used)
+- the maximum (the larger of the two integers - Math.max needs to be used)
+- the minimum (smaller of the two integers - Math.min needs to be used).
+
+Example for num1 = 2 and num = 3 below:
+5
+-1
+6
+2.5
+1
+3
+2
+----------Solution
+System.out.println(num1 + num2);
+System.out.println(num1 - num2);
+System.out.println(num1 * num2);
+System.out.println(Math.abs(num1 - num2));
+System.out.println(Math.max(num1, num2));
+System.out.println(Math.min(num1, num2));
+----------desiredOutput
+862
+-804
+24157
+804
+833
+29
+--------------------end--------------------
+--------------------new--------------------
+Number-10
+Difficulty-2
+Category-print
+----------GivenCode
+public class Answer {
+
+    public static void main(String[] Strings) {
+        int number = 9432887;
+        int sum = 0;          //sum should contain the sum of the digits in number
+        //print the sum at the end
+    }
+}
+----------Question
+Write a Java program that takes an double (number) and adds all the digits in the double.
+You should use a while loop.
+
+The result is the sum of all the digits.
+
+Example:
+num = 21 => Output:3  (2 + 1 = 3)
+num = 126 => Output:9  (1 + 2 + 6 = 9)
+----------Solution
+while(number != 0){
+	sum += number %10;
+	number /= 10;
+	}
+	System.out.println(sum  + 1);
+----------desiredOutput
+41
+--------------------end--------------------
+--------------------new--------------------
+Number-09
+Difficulty-1
+Category-print
+----------GivenCode
+public class Answer {
+
+    public static void main(String[] Strings) {
+        double inch = 215d;
+
+    }
+}
+----------Question
+Write a Java program that converts the number of inches to meters.
+
+The inch is a unit of length in the (British) imperial and United States customary systems of measurement now formally equal to ​1/36 yard but usually understood as ​1/12 of a foot.
+
+The meter is the base unit of length in some metric systems, including the International System of Units (SI). The SI unit symbol is m.
+
+Note: One inch is 0.0254 meter.
+Output: Print the number of meters
+The number has to be a double, since printing an int would round the number of meters and the conversion
+would be inaccurate.
+----------Solution
+double meters = inch * 0.0254;
+System.out.println(meters);
+----------desiredOutput
+5.460999999999999
+--------------------end--------------------
+--------------------new--------------------
+Number-13
+Difficulty-1
+Category-if
+----------GivenCode
+import java.util.*;
+
+public class Answer {
+
+    public static void main(String[] Strings) {
+        Random r = new Random();
+
+        float number = 23.4f * 2.37416904084f * 42.735042735f;
+
+        System.out.println(aThousand(number));
+
+    }
+
+    public static String aThousand(float number){
+    	//Write your solution here
+    }
+}
+----------Question
+Write in the aThousand java method so that it returns:
+
+- Lower // If the number is lower than 1000
+
+- Higher // If the number is higher than 1000
+
+- Equal // If the number is equal than 1000
+
+
+You should use if / else statements.
+
+For Example, if number = 1002 the program should print: 
+
+Higher
+----------Solution
+if(number < 1000)
+return "Lower";
+else if(number > 1000)
+return "Higher";
+else
+return "Equal";
+----------desiredOutput
+Higher
+--------------------end--------------------
+--------------------new--------------------
+Number-08
+Difficulty-1
+Category-print
+----------GivenCode
+public class Answer {
+  public static void main(String[] args){
+    float num1 = 4.5f;              //Print it as float then as int
+  }
+}
+----------Question
+In this challange, we will learn how to use casting
+You will have to declare the float "4.5", then, you will need to print it in two ways:
+First, as float
+Then, as a casted integer
+
+For the second print, you will have to cast the float value to integer.
+The way casting is done: add (int) before the float value like this:
+(int)floatNumber
+
+Output format:
+float value
+int value
+
+Example output for value 9.5:
+9.5
+9
+----------Solution
+empty
+----------desiredOutput
+4.5
+4
+--------------------end--------------------
+--------------------new--------------------
+Number-01
+Difficulty-1
+Category-print
+----------GivenCode
+import java.io.*;import java.util.*;
+
+public class Answer{
+    public static void main(String args[]){
+                //Write in the main method
+
+            }
+}
+----------Question
+Learning Modulo:
+This challenge tests if you know how modulo (%) works in java.
+It requires you to print the results of these operations:
+
+1 % 3   ( 1 MOD 3)
+
+7 % 4   ( 7 MOD 4)
+
+5 % 5   ( 5 MOD 5)
+----------Solution
+System.out.println("1");
+System.out.println("3");
+System.out.println("0");
+----------desiredOutput
+1
+3
+0
+--------------------end--------------------
+--------------------new--------------------
+Number-06
+Difficulty-1
+Category-print
+----------GivenCode
+public class Answer {
+  public static void main(String[] args){
+    int num1 = 842;
+    int num2 = 925;
+
+    int sum = //complete this line and then print the sum
+  }
+}
+----------Question
+Write a Java program to print the sum of two numbers.
+
+In mathematics, summation (capital Greek sigma symbol: ∑) is the addition of a sequence of numbers;
+the result is their sum or total.
+The numbers to be summed are integers.
+----------Solution
+empty
+----------desiredOutput
+1767
+--------------------end--------------------
+--------------------new--------------------
+Number-02
+Difficulty-1
+Category-print
+----------GivenCode
+import java.io.*;import java.util.*;
+
+public class Answer{
+    public static void main(String args[]){
+
+            }
+}
+----------Question
+In this challenge, we practice printing to stdout. You should print "Hello, World".
+You should write in the main function.
+
+-Print Hello, World on the first line.
+
+-Sample Output:
+
+Hello, World
+----------Solution
+System.out.println("Hello, World");
+----------desiredOutput
+Hello, World
+--------------------end--------------------
+--------------------new--------------------
+Number-03
+Difficulty-2
+Category-loop
+----------GivenCode
+import java.io.*;import java.util.*;
+
+public class Answer{
+    public static void main(String args[]){
+
+            }
+}
+----------Question
+Using your preferred way of looping print the numbers between 1 and 10, with the exception of even numbers.
+
+
+Output:
+1
+2
+...
+10
+----------Solution
+int i;
+for(i = 1; i < 11; i++){
+if(i % 2 == 1)
+System.out.println(i);
+}
+----------desiredOutput
+1
+3
+5
+7
+9
+--------------------end--------------------
+--------------------new--------------------
+Number-04
+Difficulty-2
+Category-loop
+----------GivenCode
+import java.io.*;import java.util.*;
+
+public class Answer{
+    public static void main(String args[]){
+
+            }
+}
+----------Question
+Using your preferred way of looping print the numbers from 1 to 30 that are multiples of 5.
+
+
+Output:
+5
+...
+30
+----------Solution
+for(int i = 1; i < 31; i++){
+if(i % 5 == 0)
+System.out.println(i);
+}
+----------desiredOutput
+5
+10
+15
+20
+25
+30
+--------------------end--------------------
+--------------------new--------------------
+Number-05
+Difficulty-3
+Category-loop
+----------GivenCode
+import java.io.*;import java.util.*;
+
+public class Answer{
+    public static void main(String args[]){
+            // Interesting note: FizzBuzz is a popular programming task.
+            // It is used in software developer job interviews, to determine whether
+            // the job candidate can actually write code.
+            // It was invented by Imran Ghory, and popularized by Jeff Atwood.
+            // Write fizz buzz according to the question
+            }
+}
+----------Question
+The famous FizzBuzz:
+Write a short program that prints each number from 1 to 20 on a new line.
+
+For each multiple of 3, print "Fizz" instead of the number.
+
+For each multiple of 5, print "Buzz" instead of the number.
+
+For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+----------Solution
+int i;
+ for (i = 1; i <= 20; i++) {
+            if (i % 15 == 0) {
+                System.out.println("FizzBuzz");
+            } else if (i % 3 == 0) {
+                System.out.println("Fizz");
+            } else if (i % 5 == 0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(String.valueOf(i));
+            }
+        }
+----------desiredOutput
+12Fizz4BuzzFizz78FizzBuzz11
+Fizz1314FizzBuzz1617Fizz19Buzz
+--------------------end--------------------
+--------------------new--------------------
+Number-07
+Difficulty-3
+Category-loop
+----------GivenCode
+import java.io.IOException;
+import java.lang.reflect.Method;
+
+public class Answer {
+
+
+    public static void main( String args[] ) {
+        Printer myPrinter = new Printer();
+        Integer[] intArray = { 1, 2, 3 };
+        String[] stringArray = {"Hello", "World"};
+        myPrinter.printArray(intArray);
+        myPrinter.printArray(stringArray);
+        int count = 0;
+
+        for (Method method : Printer.class.getDeclaredMethods()) {
+            String name = method.getName();
+
+            if(name.equals("printArray"))
+                count++;
+        }
+
+        if(count > 1)System.out.println("Method overloading is not allowed!");
+
+    }
+}
+
+class Printer
+{
+   //Write your code here
+
+   //Write your code here
+}
+----------Question
+Generic methods are a very efficient way to handle multiple datatypes using a single method. This problem will test your knowledge on Java Generic methods.
+
+Let's say you have an integer array and a string array. You have to write a single method printArray that can print all the elements of both arrays. The method should be able to accept both integer arrays or string arrays.
+
+You are given code in the editor. Complete the code so that it prints the following lines:
+
+1
+2
+3
+Hello
+World
+Do not use method overloading because your answer will not be accepted.
+----------Solution
+public static <T> void printArray(T[] arr){
+    for(T t: arr){
+       System.out.println(t+" ");
+    }
+}
+----------desiredOutput
+1 
+2 
+3 
+Hello 
+World 
+--------------------end--------------------

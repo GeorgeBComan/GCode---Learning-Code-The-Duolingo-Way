@@ -1,0 +1,110 @@
+errr---Math.a:This is how you use the Math absolute:
+
+Math.abs(firstInt - secondInt);
+
+This will print the difference between firstInt and secondInt, and it will be always positive.
+This is also called the difference.
+
+Example:
+Math.abs(1 - 3);  // => Math.abs(-2);
+
+Outputs:
+2
+sugg---Math.a:This is how you use the Math absolute:
+
+Math.abs(firstInt - secondInt);
+
+This will print the difference between firstInt and secondInt, and it will be always positive.
+This is also called the difference.
+
+Example:
+Math.abs(1 - 3);  // => Math.abs(-2);
+
+Outputs:
+2
+errr---int   :This is how you declare an int variable:
+
+int a;
+
+int a = 0;  // sets the value of a to 0
+sugg---int   :This is how you declare an int variable:
+
+int a;
+
+int a = 0;  // sets the value of a to 0
+sugg---if    :if - In programming, it's often desirable to execute a certain section of code based upon whether the specified condition is true or false.
+For this, we use 'if statements'.
+This is how an if looks like:
+if (number > 0) {
+	System.out.println("Number is positive.");
+}
+else{
+	System.out.println("Number is negative.");
+}
+sugg---for   :"for loop" provides a concise way of writing the loop structure.
+Unlike a while loop, a for statement consumes the initialization, condition and increment/decrement in one line.
+Thereby providing a shorter, easy to debug structure of looping.
+This is how you write a for loop:
+for (int i = 0; i < 5; i++) {
+  System.out.print(i);
+}
+Outputs:01234
+sugg---System:System - The basic output statement in Java is   System.out.println ( );  
+System.out.println(" text " ); will print what is between the double quotes “ “ and move the printing cursor to the next line.
+System.out.print ( “ text ”); will print what is between the double quotes and leave the printing cursor on the same line.
+sugg---while :while - A while loop statement in Java programming language repeatedly executes a target statement as long as a given condition is true.
+When executing, if the boolean_expression result is true, then the actions inside the loop will be executed.
+int count = 1;
+while (count < 4) {
+	System.out.println("Count is: " + count);
+        count++;
+}
+Outputs:
+1
+2
+3
+errr---System:System - Here is how a print statement looks like 
+System.out.println("text");
+Make sure you don't forgive to close the quotes
+It can also be used to print variables like this:
+System.out.println(var);
+errr---if    :This is how an if looks like:
+if (number > 0) {
+	System.out.println("Number is positive.");
+}
+else{
+	System.out.println("Number is negative.");
+}
+errr---for   :This is how you write a for loop:
+for (int i = 0; i < 5; i++) {
+  System.out.print(i);
+}
+errr---while :This is how you write a while loop:
+while (count < 4) {
+	System.out.println("Count is: " + count);
+        count++;
+}
+Outputs:
+1
+2
+3
+errr---String:This is how you declare a new String
+
+String a;
+
+String a = "Hello";  // sets the value of a to Hello
+sugg---String:This is how you declare a new String
+
+String a;
+
+String a = "Hello";  // sets the value of a to Hello
+errr---float :This is how you declare a float variable:
+
+int a;
+
+int a = 0f;  // sets the value of a to 0
+sugg---float :This is how you declare a float variable:
+
+int a;
+
+int a = 0f;  // sets the value of a to 0

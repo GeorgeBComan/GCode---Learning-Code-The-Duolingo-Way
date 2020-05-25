@@ -1,0 +1,1 @@
+Write in the aThousand java method so that it returns:<br/><br/>- Lower // If the number is lower than 1000<br/><br/>- Higher // If the number is higher than 1000<br/><br/>- Equal // If the number is equal than 1000<br/><br/><br/>You should use if / else statements.<br/><br/>For Example, if number = 1002 the program should print: <br/><br/>Higher<br/>

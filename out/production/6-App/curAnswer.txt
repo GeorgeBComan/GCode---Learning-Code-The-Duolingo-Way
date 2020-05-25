@@ -1,0 +1,20 @@
+import java.util.*;
+
+public class Answer {
+
+    public static void main(String[] Strings) {
+        Random r = new Random();
+
+        int number = r.nextInt((100 - 1) + 1) + 1;
+
+        System.out.println(posOrNeg(number));
+
+    }
+
+    public static String posOrNeg(int number){
+    	//Write your solution here
+if(true)
+return "Positive";
+return "Positive";
+    }
+}
